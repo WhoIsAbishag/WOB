@@ -1,0 +1,24 @@
+
+
+body {
+  padding: 25px;
+  background-color: black;
+  color: white;
+  font-size: 25px;
+}
+
+.Bow-mode {
+  background-color: white;
+  color: black;
+}
+
+.Wob-mode {
+  background-color: black;
+  color: white;
+}
+
+button {color: black; background-color: white;}
+
+
+
+
